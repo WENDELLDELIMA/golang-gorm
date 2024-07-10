@@ -20,7 +20,8 @@ This project is a simple REST API built with Golang and GORM, demonstrating basi
 2. **Navigate to the project directory:**
 
    ```sh
-   cd repository-name
+   cd golang-gorm
+
    ```
 
 3. **Install dependencies:**
