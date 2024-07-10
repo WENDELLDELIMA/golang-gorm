@@ -1,4 +1,3 @@
-
 # My First GORM Project Using Golang
 
 This project is a simple REST API built with Golang and GORM, demonstrating basic CRUD (Create, Read, Update, Delete) operations. The API manages a collection of "Personalities" with attributes such as ID, Name, and History. It uses Gorilla Mux for routing and GORM as the ORM (Object Relational Mapping) tool to interact with a PostgreSQL database.
@@ -15,7 +14,7 @@ This project is a simple REST API built with Golang and GORM, demonstrating basi
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/WENDELLDELIMA/golang-gorm
    ```
 
 2. **Navigate to the project directory:**
